@@ -1,0 +1,40 @@
+# https://www.python.org/
+
+# Esto es un comentario de una línea
+
+"""
+Comentario
+varias 
+lineas
+"""
+
+'''
+Comentario
+varias
+lineas
+'''
+# Primera variable
+my_first_var = 5
+
+# Constantes integradas en python
+True
+None
+
+# Varieables de datos primitivos
+# String
+my_string = "Esto es una cadena de caracteres"
+# Int
+my_int = 1
+# Float
+my_float = 1.1
+# Boolean
+my_bool = True
+# Lista
+lista = [1, 2, 3, 4]
+# Tupla
+tupla = (1, 2, 3, 4)
+# Diccionario
+diccionario = {"Nombre": "Franisco", "Apellido": "Domené", "Edad": 33}
+
+# Imprimiendo en pantalla
+print("Hola, Pyton")
